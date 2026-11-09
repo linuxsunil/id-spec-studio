@@ -1,0 +1,10 @@
+﻿concepts_brief.md
+design_draft.md
+consolidated_review_report.md
+alignment_review_report.md
+learner_review_report.md
+practicality_review_report.md
+theory_review_report.md
+*.png
+docs/designs/*.md
+!docs/designs/SITEMAP.md
